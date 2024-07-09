@@ -1,4 +1,6 @@
-## Hi there 👋
+## 저 이상한 사람 아닙니다.
+
+![5db7c55a986822a9d749ccd397b262df](https://github.com/RealDeal74/RealDeal74/assets/130647113/fe903228-336e-4569-84fa-cc2f3b23d607)
 
 <!--
 **RealDeal74/RealDeal74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
